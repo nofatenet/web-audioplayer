@@ -1,5 +1,5 @@
-# vue-web-player
-
+# 🎧vue-web-player
+Just a web audio player for mp3 files...
 ## Project setup
 ```
 npm install
@@ -19,6 +19,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
